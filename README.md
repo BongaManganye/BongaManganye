@@ -1,11 +1,11 @@
 # Hi there, I'm Bonga Manganye ðŸ‘‹
 
-## ðŸ’» About Me
+## » About Me
 I am a **Computer Science and Statistics** student and aspiring software developer based in Johannesburg, South Africa. My technical focus centers around bridging the gap between robust software engineering and data analyticsâ€”building scalable data pipelines, writing clean automation scripts, and designing efficient relational database architectures.
 
 ---
 
-## ðŸ› ï¸ Tech Stack & Skills
+## ¸ Tech Stack & Skills
 
 * **Languages:** Python, SQL
 * **Data Engineering & Analysis:** Pandas, NumPy, MySQL Workbench, Data Warehousing (Bronze, Silver, Gold Layers)
@@ -14,7 +14,7 @@ I am a **Computer Science and Statistics** student and aspiring software develop
 
 ---
 
-## ðŸš€ Projects & Portfolio
+##  Projects & Portfolio
 
 * **[Python-Mini-Projects](https://github.com/BongaManganye/Python-Mini-Projects):** A collection of functional Python scripts, utility tools, and coding challenge implementations.
 * **Data Warehousing Architecture:** Designed and implemented a personal three-layer data warehouse utilizing Bronze, Silver, and Gold staging environments in MySQL for optimized data transformation.
@@ -24,7 +24,7 @@ I am a **Computer Science and Statistics** student and aspiring software develop
 
 ---
 
-## ðŸ“ˆ GitHub Stats
+##  GitHub Stats
 
 > *"Data is the new oil, but software is the engine that runs it."*
 
