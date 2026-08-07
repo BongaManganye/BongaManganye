@@ -1,7 +1,7 @@
 # Hi there, I'm Bonga Manganye 
 
 ## » About Me
-I am a **Computer Science and Statistics** student and aspiring software developer based in Johannesburg, South Africa. My technical focus centers around bridging the gap between robust software engineering and data analyticsâ€”building scalable data pipelines, writing clean automation scripts, and designing efficient relational database architectures.
+I am a **Computer Science and Statistics** student and aspiring software developer based in Johannesburg, South Africa. My technical focus centers around bridging the gap between robust software engineering and data analytics building scalable data pipelines, writing clean automation scripts, and designing efficient relational database architectures.
 
 ---
 
