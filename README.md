@@ -5,7 +5,7 @@ I am a **Computer Science and Statistics** student and aspiring software develop
 
 ---
 
-## ¸ Tech Stack & Skills
+##  Tech Stack & Skills
 
 * **Languages:** Python, SQL
 * **Data Engineering & Analysis:** Pandas, NumPy, MySQL Workbench, Data Warehousing (Bronze, Silver, Gold Layers)
